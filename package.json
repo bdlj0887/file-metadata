@@ -1,0 +1,15 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "File metadata microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
